@@ -1,5 +1,6 @@
 channels:
 - conda-forge
 - terradue
+- terradue/label/dev
 dependencies:
 - eo-snuggs

@@ -2,4 +2,4 @@ channels:
 - conda-forge
 - terradue
 dependencies:
-- eo-snuggs
+- requests
